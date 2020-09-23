@@ -1,0 +1,23 @@
+.yellowBackground{
+    background-color: yellow;
+}
+
+
+.done{
+    text-decoration: line-through;
+}
+
+.important{
+    color: red;
+}
+
+
+ul > li{
+    font-size: 1.8rem;
+}
+
+
+ul > li:hover{
+    cursor: pointer;
+    
+}

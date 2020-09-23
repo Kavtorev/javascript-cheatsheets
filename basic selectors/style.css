@@ -1,0 +1,40 @@
+
+body {
+  background-image: url("coolImage.jpg");
+  background-size: cover;
+}
+
+h2,
+p {
+  color: #aa5739;
+  text-align: center;
+  border: 5px dashed rgba(212, 135, 106, 0.5);
+  cursor: pointer;
+}
+
+p {
+  color: black;
+  line-height: 20px;
+  font-style: italic;
+  /* font-weight: bold; */
+  font-size: 120%;
+  font-family: "Do Hyeon", Georgia, "Times New Roman", Times, serif, sans-serif;
+}
+
+p span{
+    font-size: 2rem;
+}
+
+.dog{
+    float: right;
+}
+
+footer{
+    clear: both;
+}
+
+
+li {
+  list-style: none;
+  display: inline-block;
+}
